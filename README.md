@@ -22,7 +22,8 @@ To help startups stand out in the digital age using smart, scalable, and stunnin
 ### ✅ Brand Story
 >Born at the crossroads of tech and trend, Pixxy Styles collection is not just a clothing brand, it's a personalized fashion experience powered by the brilliance of AI.
 > We use smart design tools and intelligent style-matching to bring you pieces that feel like they were made just for you.
-> At Pixxy Styles, we believe your style should speak your mood, vibe and your story effortlessly. That's why we blend cutting edge algorithms with creative vision to deliver drops that are bold, relevant and speaks about you. From curated collections to AI assisted styling suggestions, everything we do is built around you. With Pixxy Styles Collection your fashion sense evolves with your lif
+> At Pixxy Styles, we believe your style should speak your mood, vibe and your story effortlessly. That's why we blend cutting edge algorithms with creative vision to deliver drops that are bold, relevant and speaks about you.
+> From curated collections to AI assisted styling suggestions, everything we do is built around you. With Pixxy Styles Collection your fashion sense evolves with your lifestyle.
 
 ### 🎨 Canva Prompt – Logo Creation
 *Create an AI-generated logo for a modern digital branding agency named Pixxy Styles. The theme should be sleek, futuristic, bold, and tech-driven, using colors like midnight blue.
