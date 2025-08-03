@@ -6,7 +6,6 @@
 
 **Pixxy Styles Collection** is a futuristic digital branding agency built to empower startups and small businesses with bold, intelligent, and fast branding solutions powered by AI. This project follows a 3-phase creative process focusing on branding, AI-generated content, and client engagement — leveraging tools like ChatGPT and Canva Magic Media.
 
----
 
 ## 🔹 Phase 1: Branding & Business Setup
 
@@ -26,9 +25,8 @@ To help startups stand out in the digital age using smart, scalable, and stunnin
 > From curated collections to AI assisted styling suggestions, everything we do is built around you. With Pixxy Styles Collection your fashion sense evolves with your lifestyle.
 
 ### 🎨 Canva Prompt – Logo Creation
-*Create an AI-generated logo for a modern digital branding agency named Pixxy Styles. The theme should be sleek, futuristic, bold, and tech-driven, using colors like midnight blue.
+>"*Create an AI-generated logo for a modern digital branding agency named Pixxy Styles. The theme should be sleek, futuristic, bold, and tech-driven, using colors like midnight blue.
 
----
 
 
 ## 🔹 Phase 2: AI-Generated Design & Marketing Content
@@ -56,6 +54,7 @@ To help startups stand out in the digital age using smart, scalable, and stunnin
 ### ✅ Blog Post – Why AI Branding Is Essential
 
 **Title:** **Why Businesses Should Use AI-Powered Branding to Stay Competitive** 
+
 💡 1. Speed Without Sacrificing Quality
 Gone are the days when building a brand identity took weeksor even months. With AI, businesses can generate high-quality logos, color palettes, and brand guidelines in hours not days. AI streamlines design by removing repetitive tasks, allowing for rapid prototyping and faster launches.
 🔥 Fact: Faster branding means you get to market quicker  and in business, timing is everything.
@@ -76,7 +75,7 @@ Personalization drives engagement and engagement drives revenue.
 Startups and small businesses often can’t afford traditional agencies. AI powered branding services like Pixxy Styles Collections offer agency quality design at a fraction of the cost, making professional branding more accessible than ever.
 
 
---
+
 ## 🔹 Phase 3: Client Outreach & Monetization
 
 ### ✅ Persuasive Sales Email
@@ -85,10 +84,11 @@ Startups and small businesses often can’t afford traditional agencies. AI powe
 > Introduces Pixxy Styles Collection and the power of AI branding: faster delivery, data-driven design, consistency, and cost savings. Encourages the client to book a 15 minute strategy call.
 
 > Hi Client,
-I hope you’re doing well! I’m Sheila Mumbi, Founder of Pixxy Styles Collections, and I wanted to share how our AI-powered branding service can transform your business presence faster, smarter, and more affordably than traditional agencies.
+I hope you’re doing well!
+> I’m Sheila Mumbi, Founder of Pixxy Styles Collections, and I wanted to share how our AI-powered branding service can transform your business presence faster, smarter, and more affordably than traditional agencies.
 
 
-Why AI-Generated Branding?
+>Why AI-Generated Branding?
 Lightning Fast Turnaround
  • Get a polished logo, color palette, and brand guide in 48 hours no more waiting weeks for deliverables.
 Data-Driven Creativity
