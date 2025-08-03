@@ -11,7 +11,7 @@
 ## 🔹 Phase 1: Branding & Business Setup
 
 ### ✅ Business Name
-**Pixxy Styles**
+**Pixxy Styles Collection**
 
 ### ✅ Tagline
 **"Style that speaks loud."**
@@ -20,7 +20,7 @@
 To help startups stand out in the digital age using smart, scalable, and stunning AI-generated branding that saves time, money, and effort.
 
 ### ✅ Brand Story
-> Born at the crossroads of tech and trend, Pixxy Styles collection is not just a clothing brand, it's a personalized fashion experience powered by the brilliance of AI.
+>Born at the crossroads of tech and trend, Pixxy Styles collection is not just a clothing brand, it's a personalized fashion experience powered by the brilliance of AI.
 > We use smart design tools and intelligent style-matching to bring you pieces that feel like they were made just for you.
 > At Pixxy Styles, we believe your style should speak your mood, vibe and your story effortlessly. That's why we blend cutting edge algorithms with creative vision to deliver drops that are bold, relevant and speaks about you. From curated collections to AI assisted styling suggestions, everything we do is built around you. With Pixxy Styles Collection your fashion sense evolves with your lif
 
@@ -82,11 +82,14 @@ Startups and small businesses often can’t afford traditional agencies. AI powe
 
 **Subject:** **Boost Your Brand in Days — Not Months** 🚀  
 > Introduces Pixxy Styles Collection and the power of AI branding: faster delivery, data-driven design, consistency, and cost savings. Encourages the client to book a 15 minute strategy call.
-Hi Client,
+
+> Hi Client,
 I hope you’re doing well! I’m Sheila Mumbi, Founder of Pixxy Styles Collections, and I wanted to share how our AI-powered branding service can transform your business presence faster, smarter, and more affordably than traditional agencies.
+
+
 Why AI-Generated Branding?
 Lightning Fast Turnaround
-• Get a polished logo, color palette, and brand guide in 48 hours no more waiting weeks for deliverables.
+ • Get a polished logo, color palette, and brand guide in 48 hours no more waiting weeks for deliverables.
 Data-Driven Creativity
 • Our AI tools analyze industry trends, audience preferences, and competitor landscapes to craft visuals that truly resonate with your market.
 Consistent, Scalable Assets
@@ -96,7 +99,7 @@ Cost Efficiency
 Personalization at Scale
 • Whether you need a tailored campaign for a niche segment or multi versioned ads, our AI adapts your branding dynamically so you always speak directly to your audience.
 
-How We Work
+>How We Work
 Discovery & Strategy: We kick off with a 15-minute consult to understand your vision and goals.
 AI-Driven Design: Our platform generates multiple logo and style options based on our strategy session insights.
 Human Refinement: Our design experts fine-tune the AI’s output, ensuring every detail is perfect.
