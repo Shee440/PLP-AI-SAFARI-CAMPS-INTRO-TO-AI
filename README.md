@@ -45,5 +45,3 @@ To showcase how AI can be used not just as a tool, but as a **creative collabora
 ## 👩‍💻 Created by
 Sheila Mumbi
 @2025.
-**Sheila Mumbi**  
-Digital Creator & AI Branding Explorer  
