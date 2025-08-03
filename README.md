@@ -25,7 +25,7 @@ To help startups stand out in the digital age using smart, scalable, and stunnin
 > From curated collections to AI assisted styling suggestions, everything we do is built around you. With Pixxy Styles Collection your fashion sense evolves with your lifestyle.
 
 ### 🎨 Canva Prompt – Logo Creation
->"*Create an AI-generated logo for a modern digital branding agency named Pixxy Styles. The theme should be sleek, futuristic, bold, and tech-driven, using colors like midnight blue.
+>"Create an AI-generated logo for a modern digital branding agency named Pixxy Styles. The theme should be sleek, futuristic, bold, and tech-driven, using colors like midnight blue.
 
 
 
@@ -81,7 +81,7 @@ Startups and small businesses often can’t afford traditional agencies. AI powe
 ### ✅ Persuasive Sales Email
 
 **Subject:** **Boost Your Brand in Days — Not Months** 🚀  
-> Introduces Pixxy Styles Collection and the power of AI branding: faster delivery, data-driven design, consistency, and cost savings. Encourages the client to book a 15 minute strategy call.
+Introduces Pixxy Styles Collection and the power of AI branding: faster delivery, data-driven design, consistency, and cost savings. Encourages the client to book a 15 minute strategy call.
 
 > Hi Client,
 I hope you’re doing well!
