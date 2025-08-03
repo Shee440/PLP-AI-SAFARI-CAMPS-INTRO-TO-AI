@@ -1,12 +1,12 @@
-**Exploring AI with Creativity**
+EXPLORING AI WITH CREATIVITY
 
 📦 Pixxy Styles Collection – AI-Powered Branding Agency
 
-🌟 Overview
+🌟 OVERVIEW
 
 Pixxy Styles Collection is a futuristic digital branding agency built to empower startups and small businesses with bold, intelligent, and fast branding solutions powered by AI. This project follows a 3-phase creative process focusing on branding, AI-generated content, and client engagement — leveraging tools like ChatGPT and Canva Magic Media.
 
-🔹 Phase 1: Branding & Business Setup
+🔹 PHASE 1: BRANDING & BUSINESS SETUP
 
 ✅ Business Name
 Pixxy Styles Collection
@@ -26,7 +26,7 @@ From curated collections to AI assisted styling suggestions, everything we do is
 🎨 Canva Prompt – Logo Creation
 "Create an AI-generated logo for a modern digital branding agency named Pixxy Styles. The theme should be sleek, futuristic, bold, and tech-driven, using colors like midnight blue."
 
-🔹 Phase 2: AI-Generated Design & Marketing Content
+🔹 PHASE 2: AI-GENERATED DESIGN & MARKETING CONTENT
 
 ✅ Social Media Post Ideas (with CTA)
 
@@ -71,7 +71,7 @@ Title: Why Businesses Should Use AI-Powered Branding to Stay Competitive
 5. More Value for Your Budget
    Startups and small businesses often can’t afford traditional agencies. AI-powered branding services like Pixxy Styles Collection offer agency-quality design at a fraction of the cost, making professional branding more accessible than ever.
 
-🔹 Phase 3: Client Outreach & Monetization
+🔹 PHASE 3: CLIENT OUTREACH & MONETIZATION
 
 ✅ Persuasive Sales Email
 
@@ -124,7 +124,7 @@ Founder & Creative Director, Pixxy Styles Collection
 🤝 Canva Prompt – Pitch Deck Slide
 "Design a clean, modern pitch deck slide for Pixxy Styles. Highlight the benefits of AI-generated branding for startups: speed, affordability, innovation, and personalization. Use futuristic colors and tech-style visuals."
 
-💼 Tools Used
+💼 TOOLS USED
 
 Tool: ChatGPT
 Purpose: Content generation, storytelling
@@ -138,9 +138,11 @@ Purpose: AI-generated logos and graphics
 * How to generate compelling content for marketing, blogs, and client outreach
 * How to present a creative business concept professionally
 
-✨ Creator
+✨ CREATOR
 
 Sheila Mumbi
+@2025.
 © 2025
+
 
 
